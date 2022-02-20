@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 My 42 status
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ikoukou)](https://github.com/ihssanekoukou/ihssanekoukou/blob/main/README.md)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ikoukou)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
 
-[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/ikoukou?darkmode=true&cursus=42cursus)](https://github.com/ihssanekoukou/ihssanekoukou/blob/main/README.md)
+[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/ikoukou?darkmode=true&cursus=42cursus)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
