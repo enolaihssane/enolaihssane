@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 My Github status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihssanekoukou&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihssanekoukou&layout=compact&theme=radical)](https://github.com/ihssanekoukou/ihssanekoukou/blob/main/README.md)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enolaihssane&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enolaihssane&layout=compact&theme=radical)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
 
 
 ## 👨‍💻 My 42 status
