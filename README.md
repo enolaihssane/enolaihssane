@@ -9,13 +9,17 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 My Github status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enolaihssane&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enolaihssane&layout=compact&theme=radical)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/enolaihssane?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=enolaihssane&theme=radical" />
+</p>
 
+<p align="left">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enolaihssane&layout=compact&theme=radical" />
+</p>
 
-## 👨‍💻 My 42 status
+![enolaihssane's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=enolaihssane&theme=redical)
 
+### 👨‍💻 My 42 status
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ikoukou)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
-
-[![ikoukou's 42 stats](https://badge42.herokuapp.com/api/stats/ikoukou?darkmode=true&cursus=42cursus)](https://github.com/enolaihssane/enolaihssane/blob/main/README.md)
+[![ikoukou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/enolaihssane/Enolaihssane1/main/README.md)
