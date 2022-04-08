@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 ### 👨‍💻 My 42 status
 
-[![ikoukou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/enolaihssane/Enolaihssane1/main/README.md)
+[![ikoukou's 42 stats](https://badge42.vercel.app/api/v2/cl1r2c1e4001109mm5o9hupa7/stats?cursusId=21&coalitionId=76)](https://github.com/enolaihssane/Enolaihssane1/main/README.md)
